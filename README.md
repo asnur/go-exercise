@@ -1,7 +1,28 @@
 ## Atention
 
-- This repository is for exercise purposes only.
-- You can see the exercise description and boilerplate code in the each branch.
-- The master branch just contains this README.md for instructions.
-- Create a new repository in this organization with name **your_name-go-exercise-gdscnf** and private the repository.
-- Invite me as a collaborator to your repository.
+### Exercise 1 :
+
+- You can find the solution in the file `calculate_area.go`
+- Calculate the area of a circle, a square and a rectangle using formulas :
+  - Circle : `area = pi * radius * radius`
+  - Square : `area = side * side`
+  - Rectangle : `area = length * width`
+- You can run the program with `go run calculate_area.go`
+- You can run the test with `go test calculate_area_test.go`
+
+### Exercise 2 :
+
+- You can find the solution in the file `contact_list.go`
+- Create a contact list with the following fields :
+  - First name
+  - Last name
+  - Phone number
+  - Email
+- Manipulate the contact list with the following functions :
+  - Add a contact
+  - Remove a contact
+  - Update a contact
+  - Search a contact
+  - List all contacts
+- You can run the program with `go run contact_list.go`
+- You can run the test with `go test contact_list_test.go`
