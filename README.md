@@ -7,6 +7,7 @@
   - Circle : `area = pi * radius * radius`
   - Square : `area = side * side`
   - Rectangle : `area = length * width`
+  - Triangle : `area = 0.5 * base * height`
 - You can run the program with `go run calculate_area.go`
 - You can run the test with `go test calculate_area_test.go`
 

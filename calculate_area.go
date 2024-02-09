@@ -5,6 +5,7 @@ package main
 	Rectangle: length * width
 	Circle: π * radius * radius
 	Triangle: 0.5 * base * height
+	Square: side * side
 
 	Note: You can use math.Pi for π and math.Pow(x, y) for x^y.
 */
